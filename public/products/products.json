@@ -1,0 +1,18 @@
+[
+  
+  {
+    "id": "#product_4",
+    "label": "Ribbon",
+    "path": "/products/roundcake/index.json"
+  },
+  {
+    "id": "#product_5",
+    "label": "Creme Balls",
+    "path": "/products/fruitcake/index.json"
+  },
+  {
+    "id": "#product_6",
+    "label": "Candy Balls",
+    "path": "/products/threelayers/index.json"
+  }
+]

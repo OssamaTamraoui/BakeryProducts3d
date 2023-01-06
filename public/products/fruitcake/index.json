@@ -1,0 +1,156 @@
+{
+  "name": "One Layer",
+  "description": "Cake with one layer",
+  "envMap": "/envmaps/room1.hdr",
+  "model": "/products/fruitcake/fruitcake.glb",
+  "dracoModel0": "/products/roundcake/cake_compression_0.glb",
+  "dracoModel1": "/products/roundcake/cake_compression_1.glb",
+  "dracoModel3": "/products/roundcake/cake_compression_3.glb",
+  "dracoModel6": "/products/roundcake/cake_compression_6.glb",
+  "nodes": [
+    {
+      "id": "body",
+      "label": "body",
+      "defaultMesh": "body",
+      "defaultMaterial": {
+        "name": "Leather",
+        "path": "/materials/0002/index.json"
+      },
+      "candidateMeshes": [
+        {
+          "id": "body",
+          "label": "body"
+        }
+      ],
+      "candidateMaterials": [
+        {
+          "name": "Strawberry",
+          "thumbnail": "/materials/0000/preview.jpg",
+          "path": "/materials/0000/index.json"
+        },
+        {
+          "name": "Chocolate",
+          "thumbnail": "/materials/0002/preview.jpg",
+          "path": "/materials/0002/index.json"
+        },
+        {
+          "name": "Mocha",
+          "thumbnail": "/materials/0003/preview.jpg",
+          "path": "/materials/0003/index.json"
+        }
+      ]
+    },
+
+    {
+      "id": "balls",
+      "label": "balls",
+      "defaultMesh": "balls",
+      "defaultMaterial": {
+        "name": "Strawberry",
+        "path": "/materials/0000/index.json"
+      },
+      "candidateMeshes": [
+        {
+          "id": "balls",
+          "label": "balls"
+        }
+      ],
+      "candidateMaterials": [
+        {
+          "name": "Strawberry",
+          "thumbnail": "/materials/0000/preview.jpg",
+          "path": "/materials/0000/index.json"
+        },
+        {
+          "name": "Chocolate",
+          "thumbnail": "/materials/0002/preview.jpg",
+          "path": "/materials/0002/index.json"
+        },
+        {
+          "name": "Mocha",
+          "thumbnail": "/materials/0003/preview.jpg",
+          "path": "/materials/0003/index.json"
+        }
+      ]
+    },
+
+    
+    {
+      "id": "fruits",
+      "label": "fruits",
+      "defaultMesh": "fruits",
+
+      "defaultMaterial": {
+        "name": "Strawberry",
+        "path": "/materials/0004/index.json"
+      },
+      "candidateMeshes": [
+        {
+          "id": "fruits",
+          "label": "fruits"
+        }
+      ],
+      "candidateMaterials": [
+        {
+          "name": "Strawberry",
+          "thumbnail": "/materials/0000/preview.jpg",
+          "path": "/materials/0000/index.json"
+        },
+        {
+          "name": "Chocolate",
+          "thumbnail": "/materials/0002/preview.jpg",
+          "path": "/materials/0002/index.json"
+        },
+        {
+          "name": "Mocha",
+          "thumbnail": "/materials/0003/preview.jpg",
+          "path": "/materials/0003/index.json"
+        }
+      ]
+    }
+
+  
+
+    
+    
+  ],
+
+  "deco": [
+    {
+      "id": "balls",
+      "label": "balls",
+      "defaultMesh": "balls",
+      "defaultMaterial": {
+        "name": "Strawberry",
+        "path": "/materials/0000/index.json"
+      },
+      "candidateMeshes": [
+        {
+          "id": "balls",
+          "label": "balls"
+        }
+      ],
+      "candidateMaterials": [
+        {
+          "name": "Strawberry",
+          "thumbnail": "/materials/0000/preview.jpg",
+          "path": "/materials/0000/index.json"
+        },
+        {
+          "name": "Chocolate",
+          "thumbnail": "/materials/0002/preview.jpg",
+          "path": "/materials/0002/index.json"
+        },
+        {
+          "name": "Mocha",
+          "thumbnail": "/materials/0003/preview.jpg",
+          "path": "/materials/0003/index.json"
+        }
+      ]
+    }
+
+
+
+    
+  ]
+}

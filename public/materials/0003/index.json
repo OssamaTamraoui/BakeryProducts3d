@@ -1,0 +1,33 @@
+{
+    "name": "Mocha",
+    "color": "#53ff24",
+    "map": "/textures/0003/albedo.jpg",
+    "normalMap": "",
+    "normalScale": {
+        "x": 0.02,
+        "y": 0.02
+    },
+    "bumpMap": "/textures/0003/bump.png",
+    "bumpScale": 0,
+    "displacementMap": "",
+    "displacementScale": 0.01,
+    "displacementBias": 0,
+    "roughnessMap": "",
+    "roughness": 0.8,
+    "metalnessMap": "",
+    "metalness": 0.3,
+    "alphaMap": "",
+    "opacity": 1,
+    "aoMap": "",
+    "aoMapIntensity": 1,
+    "emissive": "#000000",
+    "emissiveMap": "",
+    "emissiveIntensity": 1,
+    "envMapIntensity": 1,
+    "wireframe": false,
+    "transparent": true,
+    "uvScale": {
+        "u": 0.2,
+        "v": 0.2
+    }
+}
